@@ -1,0 +1,4 @@
+pl\gda\pg\eti\kask\aui\rest\servlet\BooksContext.class
+pl\gda\pg\eti\kask\aui\rest\entities\Book.class
+pl\gda\pg\eti\kask\aui\rest\resources\BookResource.class
+pl\gda\pg\eti\kask\aui\rest\servlet\CoverServlet.class
